@@ -12,6 +12,8 @@ import javax.mail.internet.AddressException;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
+//This is is html text formate message 
+
 public class HTMLTextMessageDemo {
 public static void main(String[] args) throws FileNotFoundException, IOException, AddressException, MessagingException {
 	Properties properties=new Properties();
